@@ -1,4 +1,6 @@
 # AppCod
 Coding the appcode
 <br>
-Author is Diksha B
+Author is Diksha (AppCod)
+<p>I am the Best!</P>
+
